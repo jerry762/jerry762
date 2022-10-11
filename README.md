@@ -32,6 +32,11 @@
 
 </p>
 
+[![jerry762's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry762&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![jerry762's Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerry762&theme=github_dark)
+
 ## Tools:
 
 <p align="left">
@@ -43,19 +48,14 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/visual-studio-icon.svg" alt="visual-studio 2022" height="44" width="44" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/pycharm-icon.svg" alt="pycharm" height="35" width="35" /></a>
 
-
-
 </p>
 
 
+
+## Stats:
+
+
 [![jerry762's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry762&theme=github_dark&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![jerry762's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry762&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![jerry762's Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerry762&theme=github_dark)
 
 
 [![jerry762's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerry762&theme=github-dark-blue)](https://git.io/streak-stats#gh-dark-mode-only)
