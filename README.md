@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile
+# Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/jerry762/jerry762/master/images/wave.gif" width="30px">
 
 - 🌍 I speak Chinese (native), English (intermediate), Japanese (pass N5)
 - 📚 I'm currently studying win32 and doing college senior project
