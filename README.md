@@ -28,7 +28,7 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/html-icon.svg" alt="html" height="37" width="37" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/css-icon.svg" alt="css" height="37" width="37" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/javascript-programming-language-icon.svg" alt="javascript" height="34" width="34" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/markdown-icon.svg" alt="markdown" height="40" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/markdown-white.svg" alt="markdown" height="40" width="40" /></a>
 
 </p>
 
