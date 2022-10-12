@@ -1,4 +1,4 @@
-# Hi, I'm Jerry 👋
+# Welcome to my GitHub profile
 
 - 🌍 I speak Chinese (native), English (intermediate), Japanese (pass N5)
 - 📚 I'm currently studying win32 and doing college senior project
