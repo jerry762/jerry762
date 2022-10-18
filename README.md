@@ -51,10 +51,7 @@
 
 </p>
 
-
-
 ## Stats:
-
 
 [![jerry762's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerry762&theme=github_dark&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
