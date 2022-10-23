@@ -4,9 +4,7 @@
 - 📚 I'm currently studying win32 and doing college senior project
 - 🧐 I am more familiar with C++ but haven't mastered it yet
 
-
 ## Connect with me:
-
 
 <p align="left">
 
@@ -17,7 +15,6 @@
 
 
 </p>
-
 
 ## Languages:
 
