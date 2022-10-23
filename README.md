@@ -13,7 +13,6 @@
 <a href="https://twitter.com/o1YQxdGuHUv4FOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/twitter-app-icon.svg" alt="twitter" height="37" width="37" /></a>
 <a href="mailto: lkt22648@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/gmail-icon.svg" alt="gmail" height="37" width="37" /></a>
 
-
 </p>
 
 ## Languages:
