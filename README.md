@@ -55,4 +55,4 @@
 [![jerry762's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerry762&theme=github-dark-blue)](https://git.io/streak-stats#gh-dark-mode-only)
 
 
-[![jerry762's github activity graph](https://activity-graph.herokuapp.com/graph?username=jerry762&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jerry762's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jerry762&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
