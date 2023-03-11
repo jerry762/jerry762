@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/jerry762/jerry762/master/images/wave.gif" width="30px">
 
-- 🌍 I speak Chinese (native), English (intermediate), Japanese (pass N5)
+- 🌍 I speak Chinese (native), English (intermediate), Japanese (basic)
 - 🧐 I am more familiar with C++ but haven't mastered it yet
 
 ## Connect with me:
