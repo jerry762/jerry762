@@ -9,7 +9,7 @@
 
 <a href="https://discordapp.com/users/584317954548826123" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/discord.svg" alt="discord" height="37" width="37" /></a>
 <a href="https://www.facebook.com/people/%E5%8A%89%E5%86%A0%E5%B2%91/100033903953412" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/facebook-square-color-icon.svg" alt="facebook" height="37" width="37" /></a>
-<a href="https://twitter.com/o1YQxdGuHUv4FOM" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/twitter-app-icon.svg" alt="twitter" height="37" width="37" /></a>
+<a href="https://twitter.com/lkt_jerry_762" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/twitter-app-icon.svg" alt="twitter" height="37" width="37" /></a>
 <a href="mailto: lkt22648@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/jerry762/jerry762/master/icons/gmail-icon.svg" alt="gmail" height="37" width="37" /></a>
 
 </p>
