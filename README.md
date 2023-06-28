@@ -15,7 +15,7 @@
 [![jerry762's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry762&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![jerry762's Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerry762&theme=github_dark)
+![jerry762's Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerry762&theme=github_dark) ![jerry762's Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jerry762&theme=github_dark)
 
 ## Tools:
 
