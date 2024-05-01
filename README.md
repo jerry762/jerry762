@@ -5,7 +5,7 @@
 
 ## Connect with me:
 
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://skillicons.dev)
+[![contact information](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://skillicons.dev)
 
 ## Languages:
 
